@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Home Network with Cisco Packet Tracer](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Network with Cisco Packet Tracer](Coming Soon)
 
  <h2>📑 Certifications:</h2>
 
