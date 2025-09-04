@@ -1,6 +1,6 @@
 <h1>Hi, I'm Charlie. A Cybersecurity professional. </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
   - 
 
