@@ -4,7 +4,7 @@
 
   - [Audio Downloder/Converter](https://github.com/CJanes161/Audex_Downloader-Converter)
 
- <h2>📑 Certifications:</h2>
+ <h2>🎓 Education:</h2>
 
   - [Google Cybersecurity Professional](https://coursera.org/verify/BHQA6TCZSC2Q)
 
