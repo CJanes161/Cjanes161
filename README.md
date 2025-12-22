@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-  - 
+  - [NetSanity]([https://coursera.org/verify/BHQA6TCZSC2Q](https://github.com/CJanes161/NetSanity))
 
  <h2>🎓 Education:</h2>
 
